@@ -1,8 +1,14 @@
 ### Hi there 👋
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=makumaaku&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/makumaaku">
+  <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=makumaaku&count_private=true&show_icons=true" />
+</a>
 
-![My Language Card](https://github-readme-stats.vercel.app/api/top-langs/?username=makumaaku&layout=compact)
+<a href="https://github.com/makumaaku">
+  <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makumaaku&layout=compact" />
+</a>
+
+
 
 <!--
 **makumaaku/makumaaku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
